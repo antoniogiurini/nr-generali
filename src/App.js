@@ -6,10 +6,7 @@ import { withAuthenticator, AmplifySignOut } from '@aws-amplify/ui-react'
 function App() {
   return (
     <div className="App">
-      <header>
-        <img src={logo} className="App-logo" alt="logo" />
-        <h1>We now have Auth!</h1>
-      </header>
+
 <table >
 <tr>
 <td><iframe name="1" src="https://chart-embed.service.eu.newrelic.com/herald/4a330413-d556-4c2b-b012-76cb820346a7?height=300px&timepicker=true" title="Provola"  scrolling="no" width="300" height="300"></iframe></td>
