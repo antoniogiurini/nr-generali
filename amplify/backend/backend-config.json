@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "nrgenerali7cbba0c0": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

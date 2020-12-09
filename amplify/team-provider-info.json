@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nrgenerali-dev-94726-authRole",
+      "UnauthRoleArn": "arn:aws:iam::907947376305:role/amplify-nrgenerali-dev-94726-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::907947376305:role/amplify-nrgenerali-dev-94726-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-nrgenerali-dev-94726-deployment",
+      "UnauthRoleName": "amplify-nrgenerali-dev-94726-unauthRole",
+      "StackName": "amplify-nrgenerali-dev-94726",
+      "StackId": "arn:aws:cloudformation:eu-central-1:907947376305:stack/amplify-nrgenerali-dev-94726/2a166f60-39fb-11eb-9e48-02f97c6052ca",
+      "AmplifyAppId": "d3kypy4gjkqou7"
+    },
+    "categories": {
+      "auth": {
+        "nrgenerali7cbba0c0": {}
+      }
+    }
+  }
+}
